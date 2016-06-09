@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE test [ 
+    <!ENTITY xxe "file:///etc/passwd"> 
+]>
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
+  <title>&xxe</title>
   <link>http://www.w3schools.com</link>
   <description>Free web building tutorials</description>
   <item>
