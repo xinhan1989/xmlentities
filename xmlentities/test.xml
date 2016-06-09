@@ -1,94 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Weather Warnings for New South Wales / Australian Capital Territory. Issued by the Australian Bureau of Meteorology</title>
-		<link>http://www.bom.gov.au/fwo/IDZ00054.warnings_nsw.xml</link>
-		<atom:link href="http://www.bom.gov.au/fwo/IDZ00054.warnings_nsw.xml" rel="self" type="application/rss+xml" />
-		<description>Current weather warnings for New South Wales / Australian Capital Territory, Australia including strong wind, gale, storm force and hurricane force wind warnings; tsunami; damaging waves; abnormally high tides; tropical cyclones; severe thunderstorms; severe weather; fire weather; flood; frost; driving; bushwalking; sheep graziers and other agricultural warnings.</description>
-		<language>en-au</language>
-		<copyright>Copyright: (C) Copyright Commonwealth of Australia 2010, Bureau of Meteorology (ABN 92637 533532), see http://www.bom.gov.au/other/copyright.shtml for terms and conditions of reuse.</copyright>
-		<webMaster>webops@bom.gov.au (Help desk)</webMaster>
-		<pubDate>Thu, 09 Jun 2016 00:01:27 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Jun 2016 00:01:27 GMT</lastBuildDate>
-		<generator>Australian Bureau of Meteorology</generator>
-		<ttl>10</ttl>
-		<image>
-			<url>http://www.bom.gov.au/images/bom_logo_inline.gif</url>
-			<title>Weather Warnings for New South Wales / Australian Capital Territory. Issued by the Australian Bureau of Meteorology</title>
-			<link>http://www.bom.gov.au/fwo/IDZ00054.warnings_nsw.xml</link>
-		</image>
-		<item>
-			<title>09/03:59 EST Severe Weather Warning 1 (NSW)</title>
-			<link>http://www.bom.gov.au/products/IDN20032.shtml</link>
-			<pubDate>Wed, 08 Jun 2016 17:59:57 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/products/IDN20032.shtml</guid>
-		</item>
-		<item>
-			<title>09/04:10 EST Marine Wind Warning Summary for New South Wales</title>
-			<link>http://www.bom.gov.au/nsw/warnings/marinewind.shtml</link>
-			<pubDate>Wed, 08 Jun 2016 18:10:45 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/nsw/warnings/marinewind.shtml</guid>
-		</item>
-		<item>
-			<title>09/03:40 EST Warning to Sheep Graziers
-for Central Tablelands, Southern Tablelands, South West Slopes, Snowy Mountains and Australian Capital Territory forecast districts</title>
-			<link>http://www.bom.gov.au/nsw/warnings/sheep.shtml</link>
-			<pubDate>Wed, 08 Jun 2016 17:40:30 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/nsw/warnings/sheep.shtml</guid>
-		</item>
-		<item>
-			<title>08/10:19 EST Flood Warning - Hawkesbury and Nepean Rivers (NSW)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36609.html</link>
-			<pubDate>Wed, 08 Jun 2016 00:19:43 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36609.html</guid>
-		</item>
-		<item>
-			<title>08/10:14 EST Flood Warning - South Coast (NSW)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36614.html</link>
-			<pubDate>Wed, 08 Jun 2016 00:14:33 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36614.html</guid>
-		</item>
-		<item>
-			<title>09/09:44 EST Flood Warning - Wyong River and Tuggerah Lake (NSW)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36615.html</link>
-			<pubDate>Wed, 08 Jun 2016 23:44:01 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36615.html</guid>
-		</item>
-		<item>
-			<title>08/10:19 EST Flood Warning - Orara River (NSW)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36618.html</link>
-			<pubDate>Wed, 08 Jun 2016 00:19:25 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36618.html</guid>
-		</item>
-		<item>
-			<title>08/10:19 EST Flood Warning - Bogan River (NSW)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36625.html</link>
-			<pubDate>Wed, 08 Jun 2016 00:19:19 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36625.html</guid>
-		</item>
-		<item>
-			<title>07/07:46 EST Flood Warning - Queanbeyan and Molonglo Rivers (NSW)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36627.html</link>
-			<pubDate>Mon, 06 Jun 2016 21:46:39 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36627.html</guid>
-		</item>
-		<item>
-			<title>08/10:19 EST Flood Warning - Cooks River (NSW)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36658.html</link>
-			<pubDate>Wed, 08 Jun 2016 00:19:20 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDN36658.html</guid>
-		</item>
-		<item>
-			<title>09/09:44 EST Flood Warning - Snowy River (VIC)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDV36120.html</link>
-			<pubDate>Wed, 08 Jun 2016 23:44:36 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDV36120.html</guid>
-		</item>
-		<item>
-			<title>09/07:53 EST Flood Warning - Murray River Upstream of Lake Hume (VIC)</title>
-			<link>http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDV36910.html</link>
-			<pubDate>Wed, 08 Jun 2016 21:53:40 GMT</pubDate>
-			<guid isPermaLink="false">http://www.bom.gov.au/cgi-bin/wrap_fwo.pl?IDV36910.html</guid>
-		</item>
-	</channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>http://www.w3schools.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>http://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link>http://www.w3schools.com/xml</link>
+    <description>New XML tutorial on W3Schools</description>
+  </item>
+</channel>
+
 </rss>
